@@ -31,11 +31,6 @@
             "maxNumberOfSeats": 5
         },
         {
-            "number": 6,
-            "minNumberOfSeats": 4,
-            "maxNumberOfSeats": 5
-        },
-        {
             "number": 7,
             "minNumberOfSeats": 3,
             "maxNumberOfSeats": 4
